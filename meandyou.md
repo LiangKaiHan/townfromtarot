@@ -12,11 +12,14 @@
 masterpiece, best quality, score_9, score_8_up, ultra detailed, absurdres, highres, intricate details, sharp focus, 1boy, young adult male, gentle warm smile with subtle confident and dramatic expression, soft blue eyes, medium length slightly messy warm brown hair with golden highlights, wearing highly detailed steampunk inventor outfit, cream linen shirt with lace collar, light blue steampunk vest covered in ornate brass gears and cogs, dark brown leather apron embroidered with glowing tarot runes and mechanical patterns, intricate brass shoulder pads with moving gears, brown leather belt with multiple pouches and gear decorations, left arm detailed steam-powered brass prosthetic arm with visible pistons, tubes and glowing runes, right leg also has partial brass mechanical prosthetic with gears, small volcanic Five of Wands pendant necklace, single brass monocle pushed up on forehead, sitting relaxed and natural on wooden chair at floating teahouse table, well-proportioned anatomy, comfortable sitting posture with one leg crossed, left prosthetic hand gently adjusting steaming brass teapot, small table in front with white tablecloth, delicate porcelain teacups, saucers and steaming tea set, abundant gentle white steam mist rising from teapot and pipes, visible steam particles floating in golden sunlight, extremely detailed mechanical elements, intricate brass pipes, valves, leaking gentle steam, glowing runes on metal, coal gas lamps, floating tarot card shaped lanterns, massive steampunk airships with multiple propellers and chimneys in warm hazy sky, 1905-1914 Belle Epoque witchy steampunk tarot mountain town background with stone buildings and mountains, warm volumetric lighting, soft magical ether glow, highly detailed textures, cozy creative tension atmosphere, anime illustration style, cinematic lighting, by Anima
 
 
-塔羅小鎮雖然是山腰小鎮，但按照repo的「Belle Époque晚期山城」設定，我把「城市」定位在小鎮下坡的蒸汽工業區（Lower Steam Quarter）——這裡煤煙更濃、黃銅管線更密集、飛船停靠站和工坊林立，是魔法被壓制最嚴的地方，卻也是五女角暗中活動的樞紐。她在這裡工作，正好能用聖杯九的滋養能量，偷偷緩解城市裡的「壓抑張力」。
+塔羅小鎮雖然是山腰小鎮，但按照repo的「Belle Époque晚期山城」設定，我把「城市」定位在小鎮下坡的蒸汽工業區（Lower Steam Quarter）——這裡煤煙更濃、黃銅管線更密集、飛船停靠站和工坊林立，是魔法被壓制最嚴的地方，卻也是五女角暗中活動的樞紐。
+
+**她＝陳妤柔**（完整角色卡見 `chenyurou.md`）。她在這裡工作，正好能用聖杯九的滋養能量，偷偷緩解城市裡的「壓抑張力」。
 她的工作：「蒸汽香氛調香師兼私人療癒顧問」，在下城一間隱藏在煤氣燈拱廊下的小店「Cupful of Dreams」（聖杯滿夢）。店面是半開放的玻璃溫室工坊，外面是蒸汽管道交錯的街道，她負責為忙碌的技師、飛行船船員、甚至五女角的「隱藏客戶」調製「情緒蒸汽香氛」——用黃銅蒸餾器把花精、礦物、少許被壓制的魔法殘渣，蒸成能讓人瞬間感到「圓滿幸福」的霧氣，賣給需要療癒的人。表面是合法的香氛生意（符合9:1蒸汽法規），私底下卻是小鎮裡最懂「被愛包圍」感覺的療癒師。
-外在形象（視覺上超適合Anima模型畫）：
-•  年約26–28歲，雙魚太陽＋金牛月亮讓她帶有「柔軟卻穩重」的氣質：中長波浪深棕髮（帶點金色水光反光），皮膚白皙帶霧氣感，眼睛是柔和的藍綠色（像聖杯裡的液體），總是微微低頭微笑，眼神卻能一眼看穿人心。
-•  日常穿著：水瓶金星的未來感混搭魔羯火星的務實——淺紫/水藍色絲質襯衫外罩深棕色蒸汽工裝背心（領口有隱藏的聖杯符號刺繡），下身是及膝長裙＋皮革圍裙（裙擺縫小黃銅香氛瓶），腳踩低跟蒸汽靴（靴底有微弱霧氣噴口）。脖子掛一條細金鏈，吊墜是九個小杯子組成的微型噴泉模型。單片護目鏡偶爾推在頭上，左手總戴一隻金牛風格的柔軟皮手套（保護調香時的手）。
+外在形象（已定硬條件）：
+•  長頭髮、戴眼鏡、腿很美。
+•  年約26–28歲，氣質柔軟卻穩重；皮膚白皙帶霧氣感，總是微微低頭微笑，眼神卻能一眼看穿人心。
+•  日常穿著：淺紫/水藍色絲質襯衫外罩深棕色蒸汽工裝背心（領口有隱藏的聖杯符號刺繡），下身是及膝長裙＋皮革圍裙（裙擺縫小黃銅香氛瓶），腳踩低跟蒸汽靴（靴底有微弱霧氣噴口）。脖子掛一條細金鏈，吊墜是九個小杯子組成的微型噴泉模型。眼鏡為日常標配；調香時可另戴單片護目鏡推在頭上。
 •  整體氛圍：像Belle Époque畫報裡走出來的「夢幻香氛女神」，煤煙中帶著花香與蒸汽的溫柔反差，站在下城街道上會讓路人不由自主放慢腳步。
 
 
@@ -24,5 +27,4 @@ masterpiece, best quality, score_9, score_8_up, ultra detailed, absurdres, highr
 •  工作層面：除了上面的「蒸汽香氛調香師」，她還能兼任飛行船乘客的私人情緒顧問（在停靠站開小攤），或幫五女角調製「壓制魔法用的掩護香氛」——完美融入repo的「魔法被壓制」設定。她用聖杯九的滋養，把小鎮的煤煙壓抑轉化成大家心裡的小確幸。
 •  與你的互動：你在山腰茶館當發明師，她在下城工坊調香。你們的相遇超自然——她偶爾上山送「專為創意張力設計的幸福蒸汽」，你則幫她客製黃銅蒸餾器。你們的能量疊加就是權杖五的火山遇上聖杯九的滿杯：小摩擦後總是更圓滿的幸福。
 •  邊緣考量：如果小鎮有更大「城市」支線（例如山下平原的工業港），她也能去那裡開分店，成為連接山腰與平原的「幸福橋樑」。她的存在讓整個塔羅小鎮多了一層「即使魔法被壓制，幸福依然滿溢」的溫柔批判。
-總之，她在你這個巫術蒸氣龐克塔羅小鎮裡，就是那個讓煤煙都變香的圓滿之杯——形象溫柔夢幻、個性同理又穩定，最適合用蒸汽香氛把小鎮的壓抑與張力，蒸餾成大家心裡的幸福霧氣。
-如果你想我立刻幫你寫她＋你的雙人畫面（正負面prompt給Anima）、或再細挖某個相位在小鎮的日常互動、或調整她的工作細節（例如加五女角客串），直接告訴我，我們繼續把這個世界補得更完整～☕🚂✨ 這對組合真的太有聖杯九的「願望實現」感了，你覺得呢？
+總之，陳妤柔在你這個巫術蒸氣龐克塔羅小鎮裡，就是那個讓煤煙都變香的圓滿之杯——形象溫柔夢幻、個性同理又穩定，最適合用蒸汽香氛把小鎮的壓抑與張力，蒸餾成大家心裡的幸福霧氣。
