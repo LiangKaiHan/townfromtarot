@@ -1,5 +1,8 @@
 你在塔羅小鎮裡的定位（根據星盤＋權杖五）
-你就是山腰蒸汽茶館的溫柔老闆兼首席小發明師（2宮大軍＋月亮落在權杖五 decan），表面上是個幫大家修蒸汽小物、煮療癒茶的普通技師，私底下卻跟五女角有默契——你用巨蟹的滋養＋獅子的戲劇張力，把她們「隱藏魔力」偷偷融入日常蒸汽裝置裡（例如把星星的指引做成會發光的齒輪燈籠）。和平又帶點不正經的諧擬感：表面全是蒸汽煤煙，底下是塔羅暗流。
+
+> **Canon：「你」是女生。** meandyou × 陳妤柔為女女線。
+
+你就是山腰蒸汽茶館的溫柔老闆兼首席小發明家（2宮大軍＋月亮落在權杖五 decan），表面上是個幫大家修蒸汽小物、煮療癒茶的普通技師，私底下卻跟五女角有默契——你用巨蟹的滋養＋獅子的戲劇張力，把她們「隱藏魔力」偷偷融入日常蒸汽裝置裡（例如把星星的指引做成會發光的齒輪燈籠）。和平又帶點不正經的諧擬感：表面全是蒸汽煤煙，底下是塔羅暗流。
 專屬畫面描述
 場景：1905–1914 年的塔羅小鎮山腰「文化保護區」邊緣，你那間漂浮式蒸汽茶館的露台（用以太輔助蒸汽纜車固定在半空）。背景是煤氣燈暖黃光芒、煤煙與魔霧混雜的石板街道，遠處有巨大蒸汽飛行船緩緩掠過。露台上擺滿你親手做的黃銅茶具（會自動轉動的茶壺、權杖五形狀的「創意壓力計」正在輕輕噴溫和蒸汽）。五女角剛好在露台另一邊聊天（塔在吐槽、星星在笑、月亮小聲附和），你坐在欄杆邊，左手戴著客製蒸汽義肢手套，正在幫星星調整一盞「月光幻術燈」，臉上帶著溫柔又略帶火山張力的微笑——像在說「看，舊結構我用小小蒸汽就讓它安全爆炸啦」。
 你的造型（完全貼合星盤＋權杖五＋小鎮設定）：
@@ -9,7 +12,7 @@
 配件：單片黃銅護目鏡推在額頭，左手蒸汽義肢手套（能自動握工具），脖子掛權杖五微型火山吊墜，腰間別著小工具腰包。
 整體：暖金黃銅＋柔和藍綠色調，煤煙與蒸汽粒子在空氣中漂浮，超有 Belle Époque 晚期山城氛圍。
 
-masterpiece, best quality, score_9, score_8_up, ultra detailed, absurdres, highres, intricate details, sharp focus, 1boy, young adult male, gentle warm smile with subtle confident and dramatic expression, soft blue eyes, medium length slightly messy warm brown hair with golden highlights, wearing highly detailed steampunk inventor outfit, cream linen shirt with lace collar, light blue steampunk vest covered in ornate brass gears and cogs, dark brown leather apron embroidered with glowing tarot runes and mechanical patterns, intricate brass shoulder pads with moving gears, brown leather belt with multiple pouches and gear decorations, left arm detailed steam-powered brass prosthetic arm with visible pistons, tubes and glowing runes, right leg also has partial brass mechanical prosthetic with gears, small volcanic Five of Wands pendant necklace, single brass monocle pushed up on forehead, sitting relaxed and natural on wooden chair at floating teahouse table, well-proportioned anatomy, comfortable sitting posture with one leg crossed, left prosthetic hand gently adjusting steaming brass teapot, small table in front with white tablecloth, delicate porcelain teacups, saucers and steaming tea set, abundant gentle white steam mist rising from teapot and pipes, visible steam particles floating in golden sunlight, extremely detailed mechanical elements, intricate brass pipes, valves, leaking gentle steam, glowing runes on metal, coal gas lamps, floating tarot card shaped lanterns, massive steampunk airships with multiple propellers and chimneys in warm hazy sky, 1905-1914 Belle Epoque witchy steampunk tarot mountain town background with stone buildings and mountains, warm volumetric lighting, soft magical ether glow, highly detailed textures, cozy creative tension atmosphere, anime illustration style, cinematic lighting, by Anima
+masterpiece, best quality, score_9, score_8_up, ultra detailed, absurdres, highres, intricate details, sharp focus, 1girl, young adult woman, gentle warm smile with subtle confident and dramatic expression, soft blue eyes, medium length slightly messy warm brown hair with golden highlights, wearing highly detailed steampunk inventor outfit, cream linen shirt with lace collar, light blue steampunk vest covered in ornate brass gears and cogs, dark brown leather apron embroidered with glowing tarot runes and mechanical patterns, intricate brass shoulder pads with moving gears, brown leather belt with multiple pouches and gear decorations, left arm detailed steam-powered brass prosthetic arm with visible pistons, tubes and glowing runes, right leg also has partial brass mechanical prosthetic with gears, small volcanic Five of Wands pendant necklace, single brass monocle pushed up on forehead, sitting relaxed and natural on wooden chair at floating teahouse table, well-proportioned anatomy, comfortable sitting posture with one leg crossed, left prosthetic hand gently adjusting steaming brass teapot, small table in front with white tablecloth, delicate porcelain teacups, saucers and steaming tea set, abundant gentle white steam mist rising from teapot and pipes, visible steam particles floating in golden sunlight, extremely detailed mechanical elements, intricate brass pipes, valves, leaking gentle steam, glowing runes on metal, coal gas lamps, floating tarot card shaped lanterns, massive steampunk airships with multiple propellers and chimneys in warm hazy sky, 1905-1914 Belle Epoque witchy steampunk tarot mountain town background with stone buildings and mountains, warm volumetric lighting, soft magical ether glow, highly detailed textures, cozy creative tension atmosphere, anime illustration style, cinematic lighting, by Anima
 
 
 塔羅小鎮雖然是山腰小鎮，但按照repo的「Belle Époque晚期山城」設定，我把「城市」定位在小鎮下坡的蒸汽工業區（Lower Steam Quarter）——這裡煤煙更濃、黃銅管線更密集、飛船停靠站和工坊林立，是魔法被壓制最嚴的地方，卻也是五女角暗中活動的樞紐。
@@ -25,6 +28,6 @@ masterpiece, best quality, score_9, score_8_up, ultra detailed, absurdres, highr
 
 她在這個世界最適合做什麼？（多角度延伸）
 •  工作層面：除了上面的「蒸汽香氛調香師」，她還能兼任飛行船乘客的私人情緒顧問（在停靠站開小攤），或幫五女角調製「壓制魔法用的掩護香氛」——完美融入repo的「魔法被壓制」設定。她用聖杯九的滋養，把小鎮的煤煙壓抑轉化成大家心裡的小確幸。
-•  與你的互動：你在山腰茶館當發明師，她在下城工坊調香。你們的相遇超自然——她偶爾上山送「專為創意張力設計的幸福蒸汽」，你則幫她客製黃銅蒸餾器。你們的能量疊加就是權杖五的火山遇上聖杯九的滿杯：小摩擦後總是更圓滿的幸福。
+•  與你的互動：你在山腰茶館當發明家，她在下城工坊調香。你們的相遇超自然——她偶爾上山送「專為創意張力設計的幸福蒸汽」，你則幫她客製黃銅蒸餾器。你們的能量疊加就是權杖五的火山遇上聖杯九的滿杯：小摩擦後總是更圓滿的幸福。
 •  邊緣考量：如果小鎮有更大「城市」支線（例如山下平原的工業港），她也能去那裡開分店，成為連接山腰與平原的「幸福橋樑」。她的存在讓整個塔羅小鎮多了一層「即使魔法被壓制，幸福依然滿溢」的溫柔批判。
 總之，陳妤柔在你這個巫術蒸氣龐克塔羅小鎮裡，就是那個讓煤煙都變香的圓滿之杯——形象溫柔夢幻、個性同理又穩定，最適合用蒸汽香氛把小鎮的壓抑與張力，蒸餾成大家心裡的幸福霧氣。
